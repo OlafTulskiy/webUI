@@ -34,8 +34,15 @@ public class RunFirstTest {
         WebElement webElementBtnLogIn = driver.findElement(By.xpath("//button [@id = \"edit-submit\"]"));
         webElementBtnLogIn.click();
 
-        WebElement webElementLogout = driver.findElement(By.xpath("//a [@href=\"/user/logout\"]"));
-        Thread.sleep(10000);
+        //Thread.sleep(10000);
+        //Пришлось опробовать 2 типа обращения и странно,что первый не сработал
+        //а должен был, т.к. сделал точно как к кнопке login
+        //первый вариант работал 1 раз через 6-7 попыток
+        //в чем дело непонятно
+        //WebElement webElementLogout = driver.findElement(By.xpath("//a [@href=\"/user/logout\"]"));
+        WebElement webElementLogout = driver.findElement(By.xpath("//*[@id=\"navbar\"]/div/div[2]/nav/ul[1]/li[2]"));
+
+        //Thread.sleep(10000);
         webElementLogout.click();
 
         //Thread.sleep(10000l);
