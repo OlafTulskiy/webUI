@@ -21,14 +21,20 @@ public class MainStartClass {
                     break;
                 case "2":
                     System.out.println("You enter 2");
+                    RunSecondTest bb = new RunSecondTest();
+                    bb.startTest();
                     //runSecondTest();
                     break;
                 case "3":
                     System.out.println("You enter 3");
+                    RunThirdTest cc = new RunThirdTest();
+                    cc.startTest();
                     //runThirdTest();
                     break;
                 case "4":
                     System.out.println("You enter 4");
+                    RunFourTest dd = new RunFourTest();
+                    dd.startTest();
                     //runFourTest();
                     break;
                 default:

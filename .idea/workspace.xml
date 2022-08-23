@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc8a501-c110-4be8-b4d6-829656eee268" name="Changes" comment="DZ3 test 1 done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3DZ/RunFourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3DZ/RunSecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3DZ/RunThirdTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3DZ/RunFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3DZ/RunFirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3DZ/MainStartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3DZ/MainStartClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson3DZ/MainStartClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lesson3DZ/MainStartClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson3DZ/RunFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lesson3DZ/RunFirstTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661174708093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DZ3 test 1 done">
+      <created>1661175680790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661175680790</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
