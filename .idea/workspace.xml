@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc8a501-c110-4be8-b4d6-829656eee268" name="Changes" comment="DZ3 test done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ4/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4DZ/TriangleTest.java" afterDir="false" />
+    <list default="true" id="3cc8a501-c110-4be8-b4d6-829656eee268" name="Changes" comment="DZ4 test done">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson5DZ/DZ5Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,39 +51,93 @@
       <command value="mvn clean test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TriangleTest">
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3DZ.MainApp" />
+  <component name="RunManager" selected="JUnit.DZ5Test.Test6">
+    <configuration name="DZ5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectDMG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3DZ.*" />
+          <option name="PATTERN" value="org.example.lesson5DZ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson5DZ" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson5DZ.DZ5Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ5Test.Test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectDMG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lesson4DZ.*" />
+          <option name="PATTERN" value="org.example.lesson5DZ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.lesson4DZ" />
-      <option name="MAIN_CLASS_NAME" value="org.example.lesson4DZ.TriangleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="org.example.lesson5DZ" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson5DZ.DZ5Test" />
+      <option name="METHOD_NAME" value="Test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZ5Test.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDMG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson5DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson5DZ" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson5DZ.DZ5Test" />
+      <option name="METHOD_NAME" value="Test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZ5Test.runFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDMG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson5DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson5DZ" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson5DZ.DZ5Test" />
+      <option name="METHOD_NAME" value="runFourTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZ5Test.runThirdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDMG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson5DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson5DZ" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson5DZ.DZ5Test" />
+      <option name="METHOD_NAME" value="runThirdTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TriangleTest" />
-        <item itemvalue="Application.MainApp" />
+        <item itemvalue="JUnit.DZ5Test.Test6" />
+        <item itemvalue="JUnit.DZ5Test.Test5" />
+        <item itemvalue="JUnit.DZ5Test" />
+        <item itemvalue="JUnit.DZ5Test.runFourTest" />
+        <item itemvalue="JUnit.DZ5Test.runThirdTest" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661261934246</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DZ4 test done">
+      <created>1661762953865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661762953865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +243,7 @@
     <MESSAGE value="Change version" />
     <MESSAGE value="DZ3 test 1 done" />
     <MESSAGE value="DZ3 test done" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ3 test done" />
+    <MESSAGE value="DZ4 test done" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ4 test done" />
   </component>
 </project>
