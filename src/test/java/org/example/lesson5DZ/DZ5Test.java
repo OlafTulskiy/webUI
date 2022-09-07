@@ -126,7 +126,6 @@ public class DZ5Test {
 
         Assertions.assertEquals("https://developer.accuweather.com/accuweather-forecast-api/apis",driver.getCurrentUrl(),"Not this page");
 
-
     }
 
     @AfterAll
